@@ -6,3 +6,5 @@ Just some basics algorithms for
   - Linked Lists
   - Trees
   - Graphs (Declaration)
+
+You can find the exercises description in each directory.
